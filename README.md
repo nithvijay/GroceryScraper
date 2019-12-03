@@ -1,4 +1,4 @@
-# Kroger 
+# Grocery Scraper
 
 This is a small script that allows me to digitize Kroger Recipets via their website into a .csv which is then uploaded to Google Sheets where I can input which items were purchased by who.
 
