@@ -41,7 +41,7 @@ function onOpen(e) {
   
   function makeTitle(sheet) {
     var range = sheet.getRange("E1:M1");
-    range.setValues([["Nithin", "Bryce", "Cliff", "Nick", "", "Nithin Price", "Bryce Price", "Cliff Price", "Nick Price"]])
+    range.setValues([["Nithin", "Bryce", "Cliff", "4th", "", "Nithin Price", "Bryce Price", "Cliff Price", "4th Price"]])
   }
   
   function makeFormulas(sheet, values) {
