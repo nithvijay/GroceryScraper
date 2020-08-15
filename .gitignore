@@ -1,4 +1,6 @@
 .vscode
 .ipynb_checkpoints
 .DS_store
-GroceryScraperV2.ipynb
+*.ipynb
+*.sh
+.gitignore
