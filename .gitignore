@@ -1,6 +1,0 @@
-.vscode
-.ipynb_checkpoints
-.DS_store
-*.ipynb
-*.sh
-.gitignore
